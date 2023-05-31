@@ -1,0 +1,14 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+  color: white;
+}
+
+canvas {
+  display: block;
+}
